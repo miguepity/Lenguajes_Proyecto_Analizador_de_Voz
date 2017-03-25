@@ -7,9 +7,10 @@ carpeta System32.
 Y el cgjsapi.jar va en en la carpeta del proyecto
 
 Manejo e implementacion de la webcam
-en el webcam-capture-0.3.10-2 es donde estan los .jar para el manejo y la manipulacion de la webcam
+en el webcam-capture-0.3.10-2 es donde estan los .jar (webcam-capture-o.3.10..., bridj-0.7-20131007...,y slf4-api...)
+para el manejo y la manipulacion de la webcam
 y se pueden encontrar archivos de ayuda para el entendimiento de dicha libreria
 
 Conector a la base de Datos MYSQL
-esta el .jar
+esta el .jar (mysql-conector-java...)
 
