@@ -1,0 +1,15 @@
+Detector de Voz Asuna!.
+---------------------------------------------------------------------------------------------------------------------
+Manejo del microfono
+
+dependiendo del sistema operativo que tenemos instalado en la computadora, vamos a colocar el .dll en nuestra 
+carpeta System32.
+Y el cgjsapi.jar va en en la carpeta del proyecto
+
+Manejo e implementacion de la webcam
+en el webcam-capture-0.3.10-2 es donde estan los .jar para el manejo y la manipulacion de la webcam
+y se pueden encontrar archivos de ayuda para el entendimiento de dicha libreria
+
+Conector a la base de Datos MYSQL
+esta el .jar
+

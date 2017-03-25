@@ -1,0 +1,10 @@
+nullnullnullHora Mon Mar 13 09:23:52 CST 2017 El usuario miguel inicio sesion con la cantidad de usuarios: 25Hora Sat Mar 18 17:30:34 CST 2017 El usuario miguel inicio sesion con la cantidad de usuarios: 25Hora Sat Mar 18 17:30:34 CST 2017 Video LlamadaHora Sat Mar 18 17:30:34 CST 2017 video llamada a: waltherHora Tue Mar 21 07:35:35 CST 2017 El usuario miguel inicio sesion con la cantidad de usuarios: 25
+Hora Tue Mar 21 07:35:35 CST 2017 Busca contactos
+Hora Tue Mar 21 07:35:35 CST 2017 Llama Contacto
+Hora Tue Mar 21 07:35:35 CST 2017 llama a: walther
+Hora Tue Mar 21 07:35:35 CST 2017 Edita Contacto
+Hora: Tue Mar 21 07:35:35 CST 2017 edito a walther
+Hora Tue Mar 21 07:35:35 CST 2017 Video Llamada
+Hora Tue Mar 21 07:35:35 CST 2017 video llamada a: walther
+Hora Tue Mar 21 07:35:35 CST 2017 Envia Mensaje
+Hora: Tue Mar 21 07:35:35 CST 2017Envio mensaje a: walther con contenido de: oioiopoip
